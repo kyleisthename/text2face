@@ -1,0 +1,247 @@
+f-005-01.jpg 
+
+This woman has a rectangular face with long hair. She has a pair of medium normal eyes, with  sparse thin arched eyebrows. Her mouth is thin and wide, with a medium normal nose and her ears are small.
+
+f-006-01.jpg
+
+This woman has a rectangular face with short hair. She has a pair of big narrow eyes, with  sparse thin arched eyebrows. Her mouth is thick and narrow, with a big normal nose and her ears are small.
+f-007-01
+
+This woman has an inverted triangle face with short hair. She has a pair of medium normal eyes, with  sparse thin arched eyebrows. Her mouth is thin and narrow, with a medium normal nose and her ears are small.
+f-008-01
+This woman has an inverted triangle face with long hair. She has a pair of big narrow eyes, with dense thick arched eyebrows. Her mouth is thin and narrow, with a medium normal nose and her ears are big.
+f-009-01
+
+This woman has an oval face with long hair. She has a pair of medium normal eyes, with sparse thick arched eyebrows. Her mouth is thin and narrow, with a small short nose and her ears are normal.
+f-010-01
+This woman has a square face with long hair. She has a pair of medium normal eyes, with dense thin arched eyebrows. Her mouth is thick and wide, with a medium normal nose and her ears are big.
+f-011-1
+This woman has a round face with short hair. She has a pair of big narrow eyes, with dense thick down eyebrows. Her mouth is thick and wide, with a small short nose and her ears are normal.
+f-012-1
+This woman has a square face with short hair. She has a pair of medium normal eyes, with sparse thick arched eyebrows. Her mouth is thin and wide, with a big normal nose and her ears are small.
+f-013-1
+This woman has a round face with short hair. She has a pair of medium normal eyes, with sparse thick flat eyebrows. Her mouth is thick and wide, with a big normal nose and her ears are small.
+f-014-1
+This woman has an oval face with short hair. She has a pair of small wide eyes, with dense thick down eyebrows. Her mouth is thick and wide, with a big short nose and her ears are big.
+f-015-1
+This woman has a square face with short hair. She has a pair of big normal eyes, with dense thick arched eyebrows. Her mouth is thick and narrow, with a small normal nose and her ears are normal.
+f-016-1
+This woman has a rectangular face with short hair. She has a pair of medium normal eyes with dense thin flat eyebrows. Her mouth is thick and narrow, with a small normal nose and her ears are normal.
+f-017-1
+This woman has an oval face with medium hair. She has a pair of big normal eyes, with sparse thick flat eyebrows. Her mouth is thin and wide, with a medium roman nose and her ears are normal.
+f-018-1
+This woman has a rectangular face with medium hair. She has a pair of medium normal eyes, with dense thin flat eyebrows. Her mouth is thick and wide, with a medium normal nose and her ears are small.
+f-019-1
+This woman has a round face with short hair. She has a pair of small normal eyes, with dense thick arched eyebrows. Her mouth is thick and wide, with a big short nose and her ears are small.
+f-020-1
+This woman has an oval face with short hair. She has a pair of medium normal eyes, with dense thick arched eyebrows. Her mouth is thin and wide, with a big normal nose and her ears are normal.
+f-021-1
+This woman has a square face with long hair. She has a pair of small wide eyes, with dense thin arched eyebrows. Her mouth is thin and wide, with a medium roman nose and her ears are small.
+f-022-1
+This woman has an inverted triangle face with short hair. She has a pair of big wide eyes, with dense thick arched eyebrows. Her mouth is thick and wide, with a medium normal nose and her ears are normal.
+f-023-1
+This woman has a round face with long hair. She has a pair of big normal eyes, with dense thick arched eyebrows. Her mouth is thick and narrow, with a big normal nose and her ears are normal.
+f-024-1
+This woman has a rectangular face with short hair. She has a pair of medium normal eyes, with sparse thick flat eyebrows. Her mouth is thick and wide, with a big normal nose and her ears are small.
+f-025-1
+This woman has a rectangular face with medium hair. She has a pair of small normal eyes, with dense thin arched eyebrows. Her mouth is thick and wide, with a medium normal nose and her ears are small.
+f-026-1
+This woman has an inverted triangle face with short hair. She has a pair of big normal eyes, with dense thin down eyebrows. Her mouth is thick and wide, with a small short nose and her ears are normal.
+f-027-1
+This woman has a rectangular face with medium hair. She has a pair of big wide eyes, with dense thick flat eyebrows. Her mouth is thick and narrow, with a big normal nose and her ears are small.
+f-028-1
+This woman has a round face with short hair. She has a pair of medium normal eyes, with dense thick arched eyebrows. Her mouth is thick and narrow, with a small roman nose and her ears are small.
+f-029-1
+This woman has an oblong face with short hair. She has a pair of medium normal eyes, with sparse thick arched eyebrows. Her mouth is thin and narrow, with a small roman nose and her ears are small.
+f-030-1
+This woman has a round face, with short hair. She has a pair of small normal eyes, with dense thick arched eyebrows. Her mouth is thick and wide, with a big short nose and her ears are small.
+f-031-1
+This woman has an inverted triangle face with short hair. She has a pair of small wide eyes, with sparse thick flat eyebrows. Her mouth is thin and narrow, with a small short nose and her ears are wide.
+f-032-1
+This woman has an inverted triangle face with short hair. She has a pair of small wide eyes, with sparse thick flat eyebrows. Her mouth is thin and narrow, with a small short nose and her ears are wide.
+f-033-1
+This woman has a rectangular face with long hair. She has a pair of medium normal eyes, with dense thin down eyebrows. her mouth is thin and narrow, with a medium normal nose and her ears are small.
+f-034-1
+This woman has a rectangular face with long hair. She has a pair of big wide eyes, with sparse thick arched eyebrows. Her mouth is thin and wide, with a small short nose and her ears are small.
+f-035-1
+This woman has a square face with long hair. She has a pair of medium wide eyes, with dense thin arched eyebrows. Her mouth is thick and narrow, with a medium roman nose and her ears are normal.
+f-036-1
+This woman has a rectangular face with short hair. She has a pair of big narrow eyes, with sparse thick arched eyebrows. Her mouth is thick and narrow, with a medium normal nose and her ears are wide.
+f-037-1
+This woman has a square face with long hair. She has a pair of medium normal eyes, with dense thin arched eyebrows. Her mouth is thick and wide, with a small normal nose and her ears are small.
+f-038-1
+This woman has a square face with medium hair. She has a pair of big wide eyes, with sparse thick arched eyebrows. Her mouth is thin and wide, with a medium short nose and her ears are small.
+m-008-1
+This man ahs a rectangular face with short hair. He has a pair of big wide eyes, with dense thick down eyebrows. His mouth is thick and wide, with a big medium nose and his ears are wide.
+m-009-1
+This man has a square face with short hair. He has a pair of medium normal eyes, with dense thick arched eyebrows. His mouth is thin and narrow, with a medium normal nose and his ears are normal.
+m-010-1
+This man has an inverted triangle face with medium hair. He has a pair of medium normal eyes, with dense thick flat eyebrows. His mouth is thick and narrow, with a medium roman nose and his ears are wide.
+m-011-1
+This man has an inverted triangle face with short hair. He has a pair of big normal eyes, with dense thick arched eyebrows. His mouth is thick and wide, with a medium roman nose and his ears are normal.
+m-012-1
+This man has a rectangular face with short hair. He has a pair of big wide eyes, with dense thick flat eyebrows. His mouth is thick and narrow, with a big medium nose and his ears are wide.
+m-013-1
+This man has a rectangular face with short hair. He has a pair of medium normal eyes, with dense thick arched eyebrows. His mouth is thin and narrow, with a medium roman nose and his ears are normal.
+m-014-1
+This man has a rectangular face with short hair. He has a pair of small wide eyes, with dense thick flat eyebrows. His mouth is thin and narrow, with a big normal nose and his ears are medium.
+m-015-1
+This man has an oval face with short hair. He has a pair of medium wide eyes, with dense thick arched eyebrows. His mouth is thck and wide, with a medium roman nose and his ears are wide.
+m-016-1
+This man has a square face with short hair. He has a pair of big normal eyes, with sparse thin down eyebrows. His mouth is thin and narrow, with a small roman nose and his ears are medium.
+m-017-1
+This man has  an oblong face with short hair. He has a pair of medium wide eyes, with dense thick flat eyebrows. His mouth is thick and narrow, with a small roman nose and his ears are wide.
+m-018-1
+This man has a round face with short hair. He has a pair of big wide eyes, with dense thick flat eyebrows. His mouth is thick and narrow, with a medium normal nose and his ears are small.
+m-019-1
+This man has a rectangular face with short hair. He has a pair of medium normal eyes, with dense thick arched eyebrows. His mouth is thick and narrow, with a big normal nose and his ears are wide.
+m-021-1
+This man has an oval face with short hair. He has a pair of small wide eyes, with dense thin flat eyebrows. His mouth is thick and narrow, with a big normal nose and his ears are normal.
+m-022-1
+This man has a square face with short hair. He has a pair of small wide eyes, with sparse thick arched eyebrows. His mouth is thin and wide, with a medium roman nose and his ears are small.
+m-023-1
+This man has a square face with short hair. He has a pair of medium wide eyes, with dense thick flat eyebrows. His mouth is thick and narrow, with a medium normal nose and his ears are small.
+m-024-1
+This man has an oblong face with short hair. He has a pair of small narrow eyes with dense thin flat eyebrows. His mouth is thin and wide, with a medium normal nose and his ears are normal.
+m-025-1
+This man has a rectangular face with short hair. He has a pair of small wide eyes, with sparse thick arched eyebrows. His mouth is thick and wide, with a big roman nose and his ears are normal.
+m-026-1
+This man has a square face with short hair. He has a pair of medium normal eyes, with dense thick flat eyebrows. His mouth is thin and wide, with a big normal nose and his ears are normal.
+m-027-1
+This man has a inverted triangle face with short hair. He has a pair of medium wide eyes, with dense thick arched eyebrows. His mouth is thick and narrow, with a medium normal nose and his ears are normal.
+m-028-1
+This man has a square face with short hair. He has a pair of small normal eyes, with sparse thick down eyebrows. His mouth is thin and narrow, with a medium normal nose and his ears are wide.
+m-029-1
+This man has a rectangular face with short hair. He has a pair of big wide eyes, with dense thick flat eyebrows. His mouth is thin and narrow, with a small normal nose and his ears are wide.
+----------------------´ÓºóÍùÇ°-------------------------------
+m-030-01.jpg
+This man has a diamond face with short hair. He has a pair of medium normal eyes, with dense thick arched eyebrows. His mouth is thin and wide, with a medium normal nose and his ears are small.
+m-031-01.jpg
+This man has a rectangular face with short hair. He has a pair of small narrow eyes,with dense thick arched eyebrows. His mouth is thick and wide, with a medium normal nose and his ears are big.
+m-032-01.jpg
+
+This man has a inverted triangle face with long hair. He has a pair of small narrow eyes,with dense thick arched eyebrows. His mouth is thin and wide, with a medium normal nose and his ears are small.
+
+m-033-01.jpg
+
+This man has a round face with long hair. He has a pair of small narrow eyes,with dense thick flat eyebrows. His mouth is thick and narrow, with a medium normal nose and his ears are small.
+
+m-034-01.jpg
+
+This man has a square face with long hair. He has a pair of big wide eyes,with sparse thin arched eyebrows. His mouth is thick and wide, with a big normal nose and his ears are small.
+
+m-035-01.jpg
+
+This man has a diamond face with long hair. He has a pair of big wide eyes,with dense thick arched eyebrows. His mouth is thin and narrow, with a medium normal nose and his ears are small.
+
+m-036-01.jpg
+
+This man has a square face with long hair. He has a pair of big wide eyes,with dense thick arched eyebrows. His mouth is thin and narrow, with a big normal nose and his ears are small.
+
+m-037-01.jpg
+
+This man has a oval face with short hair. He has a pair of medium normal eyes,with sparse thick arched eyebrows. His mouth is thick and wide, with a big normal nose and his ears are small.
+
+m-038-01.jpg
+
+This man has a square face with short hair. He has a pair of small wide eyes,with sparse thin arched eyebrows. His mouth is thin and wide, with a big roman nose and his ears are small.
+
+m-039-01.jpg
+
+This man has a square face with short hair. He has a pair of medium wide eyes,with dense thick arched eyebrows. His mouth is thick and narrow, with a medium normal nose and his ears are small.
+
+m-040-01.jpg
+
+This man has a square face with long hair. He has a pair of medium normal eyes,with dense thin arched eyebrows. His mouth is thin and narrow, with a big normal nose and his ears are small.
+
+m-041-01.jpg
+
+This man has a square face with short hair. He has a pair of medium wide eyes,with dense thick arched eyebrows. His mouth is thin and narrow, with a medium normal nose and his ears are small.
+
+m-042-01.jpg
+
+This man has a inverted triangle face with long hair. He has a pair of medium normal eyes,with dense thick arched eyebrows. His mouth is thick and wide, with a medium normal nose and his ears are big.
+
+m-043-01.jpg
+
+This man has a rectangular face with short hair. He has a pair of medium normal eyes,with dense thick arched eyebrows. His mouth is thin and narrow, with a big normal nose and his ears are small.
+
+m-044-01.jpg
+
+This man has a inverted triangle face with long hair. He has a pair of small narrow eyes,with dense thin arched eyebrows. His mouth is thick and wide, with a medium normal nose and his ears are big.
+
+m-045-01.jpg
+
+This man has a square face with short hair. He has a pair of medium wide eyes,with dense thick arched eyebrows. His mouth is thick and wide, with a medium normal nose and his ears are small.
+
+m-046-01.jpg
+
+This man has a rectangular face with short hair. He has a pair of big wide eyes,with dense thick arched eyebrows. His mouth is thin and narrow, with a medium normal nose and his ears are small.
+
+m-047-01.jpg
+
+This man has an inverted triangle face with short hair. He has a pair of medium wide eyes,with dense thick arched eyebrows. His mouth is thick and wide, with a big normal nose and his ears are big.
+
+m-048-01.jpg
+
+This man has a square face with short hair. He has a pair of small narrow eyes,with sparse thin arched eyebrows. His mouth is thick and wide, with a big normal nose and his ears are small.
+
+m-049-01.jpg
+
+This man has a inverted triangle face with short hair. He has a pair of big wide eyes,with sparse thin arched eyebrows. His mouth is thin and wide, with a big normal nose and his ears are big.
+
+m-050-01.jpg
+
+This man has a rectangular face with short hair. He has a pair of small narrow eyes,with sparse thin arched eyebrows. His mouth is thin and wide, with a medium normal nose and his ears are small.
+
+m-051-01.jpg
+
+This man has a inverted triangle face with long hair. He has a pair of medium narrow eyes,with dense thick flat eyebrows. His mouth is thin and narrow, with a medium normal nose and his ears are small.
+
+m-052-01.jpg
+
+This man has a square face with long hair. He has a pair of small narrow eyes,with dense thin flat eyebrows. His mouth is thick and wide, with a medium normal nose and his ears are small.
+
+m-053-01.jpg
+
+This man has a square face with short hair. He has a pair of medium normal eyes,with sparse thin arched eyebrows. His mouth is thick and wide, with a medium normal nose and his ears are small.
+
+m-054-01.jpg
+
+This man has a oval face with short hair. He has a pair of medium normal eyes,with dense thick flat eyebrows. His mouth is thick and wide, with a medium normal nose and his ears are small.
+
+m-055-01.jpg
+
+This man has a square face with short hair. He has a pair of small narrow eyes,with dense thick flat eyebrows. His mouth is thin and wide, with a medium normal nose and his ears are big.
+
+m-056-01.jpg
+
+This man has a square face with long hair. He has a pair of medium normal eyes,with sparse thick flat eyebrows. His mouth is thin and narrow, with a big normal nose and his ears are small.
+
+m-057-01.jpg
+
+This man has a rectangular face with long hair. He has a pair of small wide eyes,with sparse thick arched eyebrows. His mouth is thin and wide, with a medium normal nose and his ears are small.
+
+m-058-01.jpg
+
+This man has a square face with long hair. He has a pair of medium narrow eyes,with sparse thick flat eyebrows. His mouth is thin and narrow, with a medium normal nose and his ears are big.
+
+m-059-01.jpg
+
+This man has a round  face with short hair. He has a pair of medium narrow eyes,with sparse thick arched eyebrows. His mouth is thin and narrow, with a medium normal nose and his ears are small.
+
+m-060-01.jpg
+
+This man has a square face with short hair. He has a pair of small narrow eyes,with sparse thin flat eyebrows. His mouth is thin and wide, with a big normal nose and his ears are normal.
+
+m-061-01.jpg
+
+This man has a square face with short hair. He has a pair of medium normal eyes,with dense thin flat eyebrows. His mouth is thick and wide, with a medium normal nose and his ears are big.
+
+m-062-01.jpg
+
+This man has a square face with short hair. He has a pair of small narrow eyes,with dense thin arched eyebrows. His mouth is thin and narrow, with a medium normal nose and his ears are small.
+
+
+
+
